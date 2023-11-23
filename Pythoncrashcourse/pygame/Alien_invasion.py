@@ -27,5 +27,5 @@ def run_game():
         # Make the most recently drawn screen visible.
         pygame.display.flip()
 
-
+#this is comment.
 run_game()
