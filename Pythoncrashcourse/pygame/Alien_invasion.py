@@ -29,3 +29,4 @@ def run_game():
 
 #this is comment.
 run_game()
+print(hello)
